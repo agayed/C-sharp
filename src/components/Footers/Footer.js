@@ -149,7 +149,7 @@ export default function Footer() {
                   href=""
                   className="text-blueGray-500 hover:text-blueGray-800"
                 >
-                  عبدالجيد محمد
+                  Abdelgayed Mohammed
                 </a>
                 .
               </div>
