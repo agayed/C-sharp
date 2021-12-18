@@ -146,7 +146,7 @@ export default function Footer() {
               <div className="text-sm text-blueGray-500 font-semibold py-1">
                 Copyright © {new Date().getFullYear()} Notus React by{" "}
                 <a
-                  email="agayedm@outlook.com"
+                  href="https://c-sharp.vercel.app/"
                   className="text-blueGray-500 hover:text-blueGray-800"
                 >
                   Abdelgayed Mohammed
