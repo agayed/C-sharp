@@ -244,7 +244,7 @@ export default function Index() {
               <div className="justify-center flex flex-wrap relative">
                 <div className="my-4 w-full lg:w-6/12 px-4">
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/svelte/alerts/notus?ref=vtw-index"
+                    href="https://c-sharp-9v307nydk-agayed.vercel.app/"
                     target="_blank"
                   >
                     <div className="bg-red-600 shadow-lg rounded-lg text-center ">
@@ -259,7 +259,7 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=vtw-index"
+                    href="https://c-sharp-9v307nydk-agayed.vercel.app/"
                     target="_blank"
                   >
                     <div className="bg-blueGray-600 shadow-lg rounded-lg text-center ">
@@ -274,7 +274,7 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06U_cwCNR7dtBsQfay-3TJcQpx3OygH9SrQ&usqp=CAU"
+                        src="https://c-sharp-9v307nydk-agayed.vercel.app/"
                     target="_blank"
                   >
                     <div className="bg-emerald-500 shadow-lg rounded-lg text-center ">
@@ -291,7 +291,7 @@ export default function Index() {
                 </div>
                 <div className="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=vtw-index"
+                    href="https://c-sharp-9v307nydk-agayed.vercel.app/"
                     target="_blank"
                   >
                     <div className="bg-teal-200 shadow-lg rounded-lg text-center ">
@@ -306,7 +306,7 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/angular/alerts/notus?ref=vtw-index"
+                    href="https://c-sharp-9v307nydk-agayed.vercel.app/"
                     target="_blank"
                   >
                     <div className="bg-lightBlue-800 shadow-lg rounded-lg text-center ">
@@ -321,7 +321,7 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus?ref=vtw-index"
+                    href="https://c-sharp-9v307nydk-agayed.vercel.app/"
                     target="_blank"
                   >
                     <div className="bg-purple-500 shadow-lg rounded-lg text-center ">
@@ -379,7 +379,7 @@ export default function Index() {
                 </span>
               </div>
               <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=nr-index"
+                href=""
                 target="_blank"
                 className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
               >
