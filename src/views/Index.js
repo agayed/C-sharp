@@ -19,11 +19,11 @@ export default function Index() {
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
               هناك نمط لكل شيء في حياتنا اليوميَّة. يعمل الكون بطريقةٍ يُمكِن التنبؤ بها لحدٍّ ما، فمثلًا: تعاقب الليل والنهار، الفصول، شروق الشمس وغروبها ...إلخ. يَعيش الناس بشكِل روتيني، كالاستيقاظ صباحًا ثُم التوجُّه إلى المدرسة أو العمل. نتلقى تعليمات من أشخاصٍ آخرين كمُشريفنا في العمل. يُمكن شَرح كيفيَّة طَهوِنا لوصفة معينة بسلسلة محدودة من الخطوات. ثانيًا، في كُل مرَّة نستخدم أجهزتنا الذكيَّة تعمل العديد من الأكواد في الخلفيَّة. قد يبدو تَحريك مُؤشِّر الفأرة من موضعٍ لآخر شيئًا بسيطًا، إلّا أنَّه حقيقةً يُنتِج تشغيل العديد من الأكواد. شيء بسيط ككتابة بعض الأحرف في موقع مُستندات جوجل يؤدي إلى تنفيذ عشرات الأكواد في الخلفيَّة. كُل شيء مكوَّن من الأكواد في كُل مكان.
               </p>
-              <div className="mt-12">
+              <div className="mt-12" >
                 <a
                   href=""
                   target="_blank"
-                  className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
+                  className="bt get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >
                   البداية
                 </a>
@@ -34,7 +34,7 @@ export default function Index() {
 
         <img
           className="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860px"
-          src="https://2.bp.blogspot.com/-YGTnkvL3s3A/W6E7M7vUwrI/AAAAAAAAAIQ/sgvs3nyjGA0aZ0Y7CVKVEmfZyZD33Ps4gCLcBGAs/s640/1*2ZcT0N7-WfVuFmhEnGvChA.png"
+          src="عبدالجيد.ico"
           alt="..."
         />
       </section>
