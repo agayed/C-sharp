@@ -107,12 +107,12 @@ const IndexDropdown = () => {
         >
           الصفحة الشخصية
         </Link>
-        <Link
+        {/* <Link
           to="/Visitors_questions"
           className="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
         >
           أسئلة الزوار
-        </Link>
+        </Link> */}
 
       </div>
     </>
