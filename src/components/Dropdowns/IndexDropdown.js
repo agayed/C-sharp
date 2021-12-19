@@ -79,7 +79,7 @@ const IndexDropdown = () => {
           to="/auth/login"
           className="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
         >
-          Login
+          تسجيل الدخول
         </Link>
         <Link
           to="/auth/register"
@@ -105,8 +105,15 @@ const IndexDropdown = () => {
           to="/profile"
           className="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
         >
-          Profile
+          الصفحة الشخصية
         </Link>
+        <Link
+          to="/Visitors_questions"
+          className="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
+        >
+          أسئلة الزوار
+        </Link>
+
       </div>
     </>
   );
