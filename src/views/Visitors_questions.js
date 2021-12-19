@@ -41,12 +41,7 @@ export default function Visitors_questions() {
             </svg>
           </div>
         </section>
-        <section className="relative py-16 bg-blueGray-200">
-         
-
-
-        </section> 
-      </main>
+        </main>
       <Footer />
     </>
   );
